@@ -1,4 +1,4 @@
 # CheckPoint-1-AVD
 Nama: Regina Jelita Ningsih 
-NIM: 2509116061
-Kelas: B
+<br> NIM: 2509116061
+<br> Kelas: B
